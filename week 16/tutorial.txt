@@ -1,0 +1,22 @@
+* things that are good:
+
+* step by step instructions
+    * what did you run
+    * what it should look like
+* fully formed examples and intermediate results
+* talking about the why, how it fits into the
+    problem solving, etc.
+* having a structure, and showing it
+* using using that structure to add labels
+* remind learners which aspects to pay attentionn to
+* you show short ref examples
+
+
+# find your own pattern but remember
+* talk what and why
+* show the code, maybe highlight
+    the important parts you're talking about
+* show the output (or sample output)
+* explain what happened, this might be long
+    because this is important or new, or short
+    because you're review or repeating something
